@@ -45,12 +45,12 @@ StudyNotion is an ed-tech platform that enables instructors to upload their cour
 
 7. **Run the client**
 
-    ```bash
+   ```bash
    npm start
 
 8 **Start the server**
 
-    ```bash
-   cd server
-   node index.js
+  ```bash
+  cd server
+  node index.js
 
