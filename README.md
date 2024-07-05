@@ -12,11 +12,11 @@ StudyNotion is an ed-tech platform that enables instructors to upload their cour
 
 ## Screenshots
 
-![Home Page](assets/images/home.png)
+![Home Page](src/assets/image1.png)
 
-![Instructor Dashboard](assets/images/instructor-dashboard.png)
+![Login Page](src/assets/image2.png)
 
-![Course Page](assets/images/course-page.png)
+![Contact Page](src/assets/image3.png)
 
 ## Installation
 
@@ -24,3 +24,23 @@ StudyNotion is an ed-tech platform that enables instructors to upload their cour
 
    ```bash
    git clone https://github.com/G17aurav/StudyNotion.git
+
+2. **Navigate to the project directory:**
+   cd StudyNotion
+   
+3. **Install dependencies:**
+   npm install
+   
+4. **Install server dependencies:**
+   cd server
+   npm install
+
+5. **Set up environment variables**
+
+6. **Run the client**
+   npm start
+
+7. **Start the server**
+   cd server
+   node index.js
+
