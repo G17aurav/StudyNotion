@@ -26,21 +26,31 @@ StudyNotion is an ed-tech platform that enables instructors to upload their cour
    git clone https://github.com/G17aurav/StudyNotion.git
 
 2. **Navigate to the project directory:**
+
+   ```bash
    cd StudyNotion
    
-3. **Install dependencies:**
+4. **Install dependencies:**
+
+   ```bash
    npm install
    
-4. **Install server dependencies:**
+5. **Install server dependencies:**
+
+   ```bash
    cd server
    npm install
 
-5. **Set up environment variables**
+6. **Set up environment variables**
 
-6. **Run the client**
+7. **Run the client**
+
+    ```bash
    npm start
 
-7. **Start the server**
+8 **Start the server**
+
+    ```bash
    cd server
    node index.js
 
